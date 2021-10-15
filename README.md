@@ -46,9 +46,9 @@ POST /transaction
 
 ```json
 {
-    "valor" : 100.00,
-    "pagador" : 4,
-    "beneficiario" : 15
+    "value" : 100.00,
+    "payer" : 4,
+    "payee" : 15
 }
 ```
 
