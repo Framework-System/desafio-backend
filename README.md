@@ -12,7 +12,7 @@ Abaixo você encontrará todos as informações necessárias para iniciar o seu 
 
 ### Sobre o ambiente da aplicação:
 
-- Escolha qualquer framework que se sinta **confortável** em trabalhar. Esse teste **não faz** nenhuma preferência, portanto decida por aquele com o qual estará mais seguro em apresentar ;)
+- A escolha do framework deve seguir as orientações enviadas pelo recrutador, caso não exista você pode utilizar um de sua preferência.
 
 - Tente evitar usar muito métodos mágicos ou atalhos já prontos. Sabemos que essas facilidades aumentam a produtividade no dia-a-dia mas aqui queremos ver o **seu** código e a sua forma de resolver problemas.
 
