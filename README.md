@@ -20,11 +20,11 @@ Abaixo você encontrará todos as informações necessárias para iniciar o seu 
 
 ## Objetivo:
 
-Temos 2 tipos de usuários, os comuns e lojistas, ambos têm carteira com dinheiro e realizam transferências entre eles. Vamos nos atentar **somente** ao fluxo de transferência entre dois usuários.
+Desenvolver uma carteira virtual contemplando 2 tipos de usuários, clientes e lojistas, ambos têm carteira com dinheiro e realizam transferências entre eles. Vamos nos atentar **somente** ao fluxo de transferência entre dois usuários.
 
 Requisitos:
 
-- Para ambos tipos de usuário, precisamos do Nome Completo, CPF, e-mail e Senha. CPF/CNPJ e e-mails devem ser únicos no sistema. Sendo assim, seu sistema deve permitir apenas um cadastro com o mesmo CPF ou endereço de e-mail.
+- Cadastro de usuários onde ambos tipos contenham Nome Completo, CPF, e-mail e Senha. CPF/CNPJ e e-mails devem ser únicos no sistema. Sendo assim, seu sistema deve permitir apenas um cadastro com o mesmo CPF ou endereço de e-mail.
 
 - Usuários podem enviar dinheiro (efetuar transferência) para lojistas e entre usuários. 
 
@@ -57,7 +57,6 @@ POST /transaction
 - Se for para vaga sênior, foque bastante no **desenho de arquitetura**
 - Código limpo e organizado (nomenclatura, etc)
 - Ser consistente e saber argumentar suas escolhas
-- Apresentar soluções que domina
 - Modelagem de Dados
 - Manutenibilidade do Código
 - Tratamento de erros
@@ -66,7 +65,9 @@ POST /transaction
 
 ## O que será um Diferencial
 - Uso de Docker
+- Swagger bem estruturado
 - Testes de [integração](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 - Testes [unitários](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 - Uso de Design Patterns
 - Documentação
+- Logs de aplicação bem estruturados
