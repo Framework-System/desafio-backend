@@ -1,6 +1,6 @@
 # Desafio Backend Framework
 
-Primeiramente, obrigado pelo seu interesse em trabalhar na Framework System!
+Primeiramente, obrigado pelo seu interesse em trabalhar na Framework Digital!
 Abaixo você encontrará todos as informações necessárias para iniciar o seu teste.
 
 ## Avisos antes de começar
@@ -14,7 +14,7 @@ Abaixo você encontrará todos as informações necessárias para iniciar o seu 
 
 - A escolha do framework deve seguir as orientações enviadas pelo recrutador, caso não exista você pode utilizar um de sua preferência.
 
-- Tente evitar usar muito métodos mágicos ou atalhos já prontos. Sabemos que essas facilidades aumentam a produtividade no dia-a-dia mas aqui queremos ver o **seu** código e a sua forma de resolver problemas.
+- Tente evitar usar muitos métodos mágicos ou atalhos já prontos. Sabemos que essas facilidades aumentam a produtividade no dia-a-dia mas aqui queremos ver o **seu** código e a sua forma de resolver problemas.
 
 - Valorizamos uma boa estrutura criada por você.
 
