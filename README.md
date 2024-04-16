@@ -32,7 +32,7 @@ Requisitos:
 
 - Validar se o usuário tem saldo antes da transferência.
 
-- Antes de finalizar a transferência, deve-se consultar um serviço autorizador externo, use este mock para simular (https://run.mocky.io/v3/1f1b822a-3d6f-4b95-9a01-b3e6191e436b).
+- Antes de finalizar a transferência, deve-se consultar um serviço autorizador externo, use este mock para simular (https://run.mocky.io/v3/114dfeb3-0425-4958-a4dd-948581bb19c6).
 
 - A operação de transferência deve ser uma transação (ou seja, revertida em qualquer caso de inconsistência) e o dinheiro deve voltar para a carteira do usuário que envia. 
 
